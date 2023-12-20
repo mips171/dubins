@@ -1,3 +1,3 @@
-module mips171/dubins
+module dubins
 
 go 1.21.5
